@@ -1,0 +1,35 @@
+{
+  "name": "my-login",
+  "version": "1.0.0",
+  "description": "A simple log in system built with PHP that considers UI, authentications and security.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "UI",
+    "Login",
+    "PHP",
+    "UI",
+    "UX",
+    "mySQL",
+    "JavaScript"
+  ],
+  "author": "Stephen",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.1.6",
+    "bootstrap": "^4.0.0-alpha.6",
+    "grunt-contrib-compass": "^1.1.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-postcss": "^0.9.0",
+    "jshint-stylish": "^2.2.1",
+    "uglify-js": "^3.1.6"
+  }
+}

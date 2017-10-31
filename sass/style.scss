@@ -1,0 +1,54 @@
+
+
+/* Bootstrap Includes */
+@import "bootstrap/bootstrap";
+
+.logo{
+  border-radius: 200px;
+  max-height: 200px;
+
+}
+
+
+// Spacing ---------------------------------------//
+//push elements from the top of the page
+.space{
+  margin-top:70px;
+}
+
+.whitespace{
+  margin-top:15px;
+  margin-bottom:15px;
+}
+
+
+//Font ---------------------------------------------//
+
+//change the label text
+label{
+ font-family: $open;
+ color:#4f4f4f;
+}
+
+//remove underline from hover
+a:hover{
+  text-decoration: none;
+}
+
+//make user name stand out once logged in
+.bold{
+  font-size: 20pt;
+  background-color: pink;
+  color: white;
+  padding:  0px 5px 0px 5px;
+}
+
+//centre elements
+.center{
+  text-align: center;
+}
+
+//change the cursor to a pointer on hover
+input[type='submit']:hover{
+  cursor: pointer;
+}
